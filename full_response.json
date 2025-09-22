@@ -1,0 +1,608 @@
+{
+  "backend_uuid": "605a277f-19eb-4db5-98ba-b6d969c6ab3f",
+  "context_uuid": "706c36a7-6676-4892-823d-3b40f6940a25",
+  "uuid": "0af6d2b9-8a23-4190-8bbe-1cb6b65e5daa",
+  "frontend_context_uuid": "7343b922-5f87-495f-afbd-a502147135a0",
+  "frontend_uuid": "0af6d2b9-8a23-4190-8bbe-1cb6b65e5daa",
+  "text": "[{\"step_type\": \"INITIAL_QUERY\", \"content\": {\"query\": \"PRIVET\"}, \"uuid\": \"\"}, {\"step_type\": \"SEARCH_WEB\", \"content\": {\"goal_id\": \"0\", \"queries\": [{\"engine\": \"web\", \"query\": \"PRIVET\", \"limit\": 8}]}, \"uuid\": \"92761cb3-e347-4622-a84f-ec32237b5286\"}, {\"step_type\": \"SEARCH_RESULTS\", \"content\": {\"goal_id\": \"0\", \"web_results\": [{\"name\": \"Privet\", \"url\": \"https://en.wikipedia.org/wiki/Privet\", \"snippet\": \"A privet is a flowering plant in the genus Ligustrum. The genus contains about 50 species of erect, deciduous or evergreen shrubs or trees.\", \"is_attachment\": false, \"is_navigational\": false, \"is_focused_web\": false, \"is_memory\": false, \"is_conversation_history\": false, \"tab_id\": null, \"meta_data\": {\"client\": \"web\", \"citation_domain_name\": \"wikipedia\", \"suffix\": \"org\", \"domain_name\": \"Wikimedia Foundation, Inc.\", \"published_date\": \"2003-06-02T00:00:00\"}, \"sitelinks\": null}, {\"name\": \"Types of privet: evergreen & robust privet hedges\", \"url\": \"https://plantura.garden/uk/trees-shrubs/privet/types-of-privet\", \"snippet\": \"Privet (Ligustrum) is extremely diverse and extremely hardy. In general, the plant grows quickly and is very tolerant of pruning.\", \"is_attachment\": false, \"is_navigational\": false, \"is_focused_web\": false, \"is_memory\": false, \"is_conversation_history\": false, \"tab_id\": null, \"meta_data\": {\"client\": \"web\", \"citation_domain_name\": \"plantura\", \"suffix\": \"garden\", \"domain_name\": \"Plantura\", \"description\": \"There is more to privet than you might think. Find out about the most robust and evergreen types of privet for your garden.\", \"published_date\": \"2023-04-11T00:00:00\"}, \"sitelinks\": null}, {\"name\": \"A Guide to Growing Privet Responsibly\", \"url\": \"https://www.gardendesign.com/shrubs/privet.html\", \"snippet\": \"Privet tolerates a range of growing conditions, can withstand salt and urban pollution, and needs little maintenance other than regular pruning to keep it ...\", \"is_attachment\": false, \"is_navigational\": false, \"is_focused_web\": false, \"is_memory\": false, \"is_conversation_history\": false, \"tab_id\": null, \"meta_data\": {\"client\": \"web\", \"citation_domain_name\": \"gardendesign\", \"suffix\": \"com\", \"domain_name\": \"Garden Design Magazine\", \"description\": \"Learn how to grow and care for privet with our expert guide. Discover non-invasive varieties perfect for hedging and privacy screening. Tips on planting, pruning, and more!\", \"published_date\": \"2024-11-20T00:00:00\"}, \"sitelinks\": null}, {\"name\": \"Ligustrum ovalifolium\", \"url\": \"https://en.wikipedia.org/wiki/Ligustrum_ovalifolium\", \"snippet\": \"Ligustrum ovalifolium, also known as Korean privet, California privet, garden privet, and oval-leaved privet, is a species of flowering plant in the olive ...\", \"is_attachment\": false, \"is_navigational\": false, \"is_focused_web\": false, \"is_memory\": false, \"is_conversation_history\": false, \"tab_id\": null, \"meta_data\": {\"client\": \"web\", \"citation_domain_name\": \"wikipedia\", \"suffix\": \"org\", \"domain_name\": \"Wikimedia Foundation, Inc.\", \"published_date\": \"2007-06-30T00:00:00\"}, \"sitelinks\": null}, {\"name\": \"Privet \\u2013 the Good, the Bad and the Beautiful\", \"url\": \"https://www.thetreecenter.com/privet-good-bad-beautiful/\", \"snippet\": \"Privet is a small tree, but if planted with enough space allowed for their growth, it is an attractive and very tough plant and a great choice for a difficult ...\", \"is_attachment\": false, \"is_navigational\": false, \"is_focused_web\": false, \"is_memory\": false, \"is_conversation_history\": false, \"tab_id\": null, \"meta_data\": {\"client\": \"web\", \"citation_domain_name\": \"thetreecenter\", \"suffix\": \"com\", \"domain_name\": \"The Tree Center\", \"description\": \"Privets are a controversial flowering shrub but all-in-all are widely considered to be a great garden addition. Learn why you should consider a privet.\", \"published_date\": \"2024-10-11T00:00:00\"}, \"sitelinks\": null}, {\"name\": \"Wild privet\", \"url\": \"https://www.wildlifetrusts.org/wildlife-explorer/trees-and-shrubs/wild-privet\", \"snippet\": \"Wild privet is a shrub of hedgerows, woodlands and scrub, but is also a popular garden-hedge plant. It has white flowers in summer and matt-black berries in ...\", \"is_attachment\": false, \"is_navigational\": false, \"is_focused_web\": false, \"is_memory\": false, \"is_conversation_history\": false, \"tab_id\": null, \"meta_data\": {\"client\": \"web\", \"citation_domain_name\": \"wildlifetrusts\", \"suffix\": \"org\", \"domain_name\": \"Wildlifetrusts\", \"description\": \"Wild privet is a shrub of hedgerows, woodlands and scrub, but is also a popular garden-hedge plant. It has white flowers in summer and matt-black berries in winter that are very poisonous.\", \"published_date\": \"2018-01-01T00:00:00\"}, \"sitelinks\": null}, {\"name\": \"Tree privet\", \"url\": \"https://www.weedbusters.org.nz/what-are-weeds/weed-list/tree-privet/\", \"snippet\": \"Small-to-large evergreen, hairless tree or dense shrub (<15+ m) with distinctive lumpy warts on the stems. Dark green leaves (5-13 x 3-6 cm) are glossy on the ...\", \"is_attachment\": false, \"is_navigational\": false, \"is_focused_web\": false, \"is_memory\": false, \"is_conversation_history\": false, \"tab_id\": null, \"meta_data\": {\"client\": \"web\", \"citation_domain_name\": \"weedbusters\", \"suffix\": \"org.nz\", \"domain_name\": \"Weedbusters\", \"published_date\": \"2006-01-01T00:00:00\"}, \"sitelinks\": null}, {\"name\": \"PRIVET - Englisch-Deutsch \\u00dcbersetzung\", \"url\": \"https://de.pons.com/%C3%BCbersetzung/englisch-deutsch/privet\", \"snippet\": \"\\u00dcbersetzung Englisch-Deutsch f\\u00fcr PRIVET im PONS Online-W\\u00f6rterbuch nachschlagen! Gratis Vokabeltrainer, Verbtabellen, Aussprachefunktion.\", \"is_attachment\": false, \"is_navigational\": false, \"is_focused_web\": false, \"is_memory\": false, \"is_conversation_history\": false, \"tab_id\": null, \"meta_data\": {\"client\": \"web\", \"citation_domain_name\": \"pons\", \"suffix\": \"com\", \"domain_name\": \"PONS Langenscheidt GmbH\", \"description\": \"\\u00dcbersetzung Englisch-Deutsch f\\u00fcr privet im PONS Online-W\\u00f6rterbuch nachschlagen! Gratis Vokabeltrainer, Verbtabellen, Aussprachefunktion.\"}, \"sitelinks\": null}]}, \"uuid\": \"fbe77cd6-e770-47e7-a71e-af0e8274929e\"}, {\"step_type\": \"FINAL\", \"content\": {\"answer\": \"{\\\"answer\\\": \\\"\\\\\\\"Privet\\\\\\\" is a flowering plant belonging to the genus Ligustrum, which includes about 50 species of shrubs and small trees. These plants can be deciduous or evergreen and are native to regions including Europe, tropical and subtropical Asia, Australia, and North Africa. Privet species are often used for hedging due to their fast growth, tolerance to pruning, and adaptability to various soil types. The plant produces white flowers followed by dark berries, and some species can become invasive in certain areas. Privet is popular for privacy screening and hedging but may cause allergic reactions in some people due to pollen.[1][2][3]\\\", \\\"web_results\\\": [{\\\"name\\\": \\\"Privet\\\", \\\"snippet\\\": \\\"A privet is a flowering plant in the genus Ligustrum. The genus contains about 50 species of erect, deciduous or evergreen shrubs or trees, with a native distribution from Europe to tropical and subtropical Asia, and with one species each native to Australia and north Africa. Some species have become widely naturalized or invasive where introduced. *Privet* was originally the name for the European semi-evergreen shrub *Ligustrum vulgare*, and later also for the more reliably evergreen...\\\", \\\"timestamp\\\": \\\"2003-06-02T00:00:00\\\", \\\"url\\\": \\\"https://en.wikipedia.org/wiki/Privet\\\", \\\"meta_data\\\": {\\\"client\\\": \\\"web\\\", \\\"date\\\": null, \\\"citation_domain_name\\\": \\\"wikipedia\\\", \\\"suffix\\\": \\\"org\\\", \\\"domain_name\\\": \\\"Wikimedia Foundation, Inc.\\\", \\\"description\\\": null, \\\"images\\\": [\\\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Schurenbachhalde_11_ies.jpg/1200px-Schurenbachhalde_11_ies.jpg\\\"], \\\"published_date\\\": \\\"2003-06-02T00:00:00\\\"}, \\\"is_attachment\\\": false, \\\"is_image\\\": false, \\\"is_code_interpreter\\\": false, \\\"is_knowledge_card\\\": false, \\\"is_navigational\\\": false, \\\"is_widget\\\": false, \\\"sitelinks\\\": null, \\\"is_focused_web\\\": false, \\\"is_client_context\\\": false, \\\"inline_entity_id\\\": null, \\\"is_memory\\\": false, \\\"is_conversation_history\\\": false, \\\"tab_id\\\": null, \\\"is_scrubbed\\\": null}, {\\\"name\\\": \\\"Types of privet: evergreen & robust privet hedges\\\", \\\"snippet\\\": \\\"There is more to privet than you might think. Find out about the most robust and evergreen types of privet for your garden.\\\", \\\"timestamp\\\": \\\"2023-04-11T00:00:00\\\", \\\"url\\\": \\\"https://plantura.garden/uk/trees-shrubs/privet/types-of-privet\\\", \\\"meta_data\\\": {\\\"client\\\": \\\"web\\\", \\\"date\\\": null, \\\"citation_domain_name\\\": \\\"plantura\\\", \\\"suffix\\\": \\\"garden\\\", \\\"domain_name\\\": \\\"Plantura\\\", \\\"description\\\": \\\"There is more to privet than you might think. Find out about the most robust and evergreen types of privet for your garden.\\\", \\\"images\\\": [\\\"https://plantura.garden/uk/wp-content/uploads/sites/2/2022/06/types-of-privet.jpg\\\"], \\\"published_date\\\": \\\"2023-04-11T00:00:00\\\"}, \\\"is_attachment\\\": false, \\\"is_image\\\": false, \\\"is_code_interpreter\\\": false, \\\"is_knowledge_card\\\": false, \\\"is_navigational\\\": false, \\\"is_widget\\\": false, \\\"sitelinks\\\": null, \\\"is_focused_web\\\": false, \\\"is_client_context\\\": false, \\\"inline_entity_id\\\": null, \\\"is_memory\\\": false, \\\"is_conversation_history\\\": false, \\\"tab_id\\\": null, \\\"is_scrubbed\\\": null}, {\\\"name\\\": \\\"A Guide to Growing Privet Responsibly\\\", \\\"snippet\\\": \\\"Learn how to grow and care for privet with our expert guide. Discover non-invasive varieties perfect for hedging and privacy screening. Tips on planting, pruning, and more!\\\", \\\"timestamp\\\": \\\"2024-11-20T00:00:00\\\", \\\"url\\\": \\\"https://www.gardendesign.com/shrubs/privet.html\\\", \\\"meta_data\\\": {\\\"client\\\": \\\"web\\\", \\\"date\\\": null, \\\"citation_domain_name\\\": \\\"gardendesign\\\", \\\"suffix\\\": \\\"com\\\", \\\"domain_name\\\": \\\"Garden Design Magazine\\\", \\\"description\\\": \\\"Learn how to grow and care for privet with our expert guide. Discover non-invasive varieties perfect for hedging and privacy screening. Tips on planting, pruning, and more!\\\", \\\"images\\\": [\\\"https://www.gardendesign.com/pictures/images/320x320Exact/site_3/kindly-privet-foliage-proven-winners_18877.jpg\\\"], \\\"published_date\\\": \\\"2024-11-20T00:00:00\\\"}, \\\"is_attachment\\\": false, \\\"is_image\\\": false, \\\"is_code_interpreter\\\": false, \\\"is_knowledge_card\\\": false, \\\"is_navigational\\\": false, \\\"is_widget\\\": false, \\\"sitelinks\\\": null, \\\"is_focused_web\\\": false, \\\"is_client_context\\\": false, \\\"inline_entity_id\\\": null, \\\"is_memory\\\": false, \\\"is_conversation_history\\\": false, \\\"tab_id\\\": null, \\\"is_scrubbed\\\": null}, {\\\"name\\\": \\\"Ligustrum ovalifolium\\\", \\\"snippet\\\": \\\"\\\", \\\"timestamp\\\": \\\"2007-06-30T00:00:00\\\", \\\"url\\\": \\\"https://en.wikipedia.org/wiki/Ligustrum_ovalifolium\\\", \\\"meta_data\\\": {\\\"client\\\": \\\"web\\\", \\\"date\\\": null, \\\"citation_domain_name\\\": \\\"wikipedia\\\", \\\"suffix\\\": \\\"org\\\", \\\"domain_name\\\": \\\"Wikimedia Foundation, Inc.\\\", \\\"description\\\": null, \\\"images\\\": [\\\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ligustrum_ovalifolium.jpg/1200px-Ligustrum_ovalifolium.jpg\\\"], \\\"published_date\\\": \\\"2007-06-30T00:00:00\\\"}, \\\"is_attachment\\\": false, \\\"is_image\\\": false, \\\"is_code_interpreter\\\": false, \\\"is_knowledge_card\\\": false, \\\"is_navigational\\\": false, \\\"is_widget\\\": false, \\\"sitelinks\\\": null, \\\"is_focused_web\\\": false, \\\"is_client_context\\\": false, \\\"inline_entity_id\\\": null, \\\"is_memory\\\": false, \\\"is_conversation_history\\\": false, \\\"tab_id\\\": null, \\\"is_scrubbed\\\": null}, {\\\"name\\\": \\\"Privet \\\\u2013 the Good, the Bad and the Beautiful\\\", \\\"snippet\\\": \\\"Privets are a controversial flowering shrub but all-in-all are widely considered to be a great garden addition. Learn why you should consider a privet.\\\", \\\"timestamp\\\": \\\"2024-10-11T00:00:00\\\", \\\"url\\\": \\\"https://www.thetreecenter.com/privet-good-bad-beautiful/\\\", \\\"meta_data\\\": {\\\"client\\\": \\\"web\\\", \\\"date\\\": null, \\\"citation_domain_name\\\": \\\"thetreecenter\\\", \\\"suffix\\\": \\\"com\\\", \\\"domain_name\\\": \\\"The Tree Center\\\", \\\"description\\\": \\\"Privets are a controversial flowering shrub but all-in-all are widely considered to be a great garden addition. Learn why you should consider a privet.\\\", \\\"images\\\": [\\\"https://www.thetreecenter.com/c/uploads/2017/01/3C9A5657-jpg.avif\\\"], \\\"published_date\\\": \\\"2024-10-11T00:00:00\\\"}, \\\"is_attachment\\\": false, \\\"is_image\\\": false, \\\"is_code_interpreter\\\": false, \\\"is_knowledge_card\\\": false, \\\"is_navigational\\\": false, \\\"is_widget\\\": false, \\\"sitelinks\\\": null, \\\"is_focused_web\\\": false, \\\"is_client_context\\\": false, \\\"inline_entity_id\\\": null, \\\"is_memory\\\": false, \\\"is_conversation_history\\\": false, \\\"tab_id\\\": null, \\\"is_scrubbed\\\": null}, {\\\"name\\\": \\\"Wild privet\\\", \\\"snippet\\\": \\\"Wild privet is a shrub of hedgerows, woodlands and scrub, but is also a popular garden-hedge plant. It has white flowers in summer and matt-black berries in winter that are very poisonous.\\\", \\\"timestamp\\\": \\\"2018-01-01T00:00:00\\\", \\\"url\\\": \\\"https://www.wildlifetrusts.org/wildlife-explorer/trees-and-shrubs/wild-privet\\\", \\\"meta_data\\\": {\\\"client\\\": \\\"web\\\", \\\"date\\\": null, \\\"citation_domain_name\\\": \\\"wildlifetrusts\\\", \\\"suffix\\\": \\\"org\\\", \\\"domain_name\\\": \\\"Wildlifetrusts\\\", \\\"description\\\": \\\"Wild privet is a shrub of hedgerows, woodlands and scrub, but is also a popular garden-hedge plant. It has white flowers in summer and matt-black berries in winter that are very poisonous.\\\", \\\"images\\\": [], \\\"published_date\\\": \\\"2018-01-01T00:00:00\\\"}, \\\"is_attachment\\\": false, \\\"is_image\\\": false, \\\"is_code_interpreter\\\": false, \\\"is_knowledge_card\\\": false, \\\"is_navigational\\\": false, \\\"is_widget\\\": false, \\\"sitelinks\\\": null, \\\"is_focused_web\\\": false, \\\"is_client_context\\\": false, \\\"inline_entity_id\\\": null, \\\"is_memory\\\": false, \\\"is_conversation_history\\\": false, \\\"tab_id\\\": null, \\\"is_scrubbed\\\": null}, {\\\"name\\\": \\\"Tree privet\\\", \\\"snippet\\\": \\\"\\\", \\\"timestamp\\\": \\\"2006-01-01T00:00:00\\\", \\\"url\\\": \\\"https://www.weedbusters.org.nz/what-are-weeds/weed-list/tree-privet/\\\", \\\"meta_data\\\": {\\\"client\\\": \\\"web\\\", \\\"date\\\": null, \\\"citation_domain_name\\\": \\\"weedbusters\\\", \\\"suffix\\\": \\\"org.nz\\\", \\\"domain_name\\\": \\\"Weedbusters\\\", \\\"description\\\": null, \\\"images\\\": [], \\\"published_date\\\": \\\"2006-01-01T00:00:00\\\"}, \\\"is_attachment\\\": false, \\\"is_image\\\": false, \\\"is_code_interpreter\\\": false, \\\"is_knowledge_card\\\": false, \\\"is_navigational\\\": false, \\\"is_widget\\\": false, \\\"sitelinks\\\": null, \\\"is_focused_web\\\": false, \\\"is_client_context\\\": false, \\\"inline_entity_id\\\": null, \\\"is_memory\\\": false, \\\"is_conversation_history\\\": false, \\\"tab_id\\\": null, \\\"is_scrubbed\\\": null}, {\\\"name\\\": \\\"PRIVET - Englisch-Deutsch \\\\u00dcbersetzung\\\", \\\"snippet\\\": \\\"\\\\u00dcbersetzung Englisch-Deutsch f\\\\u00fcr privet im PONS Online-W\\\\u00f6rterbuch nachschlagen! Gratis Vokabeltrainer, Verbtabellen, Aussprachefunktion.\\\", \\\"timestamp\\\": \\\"\\\", \\\"url\\\": \\\"https://de.pons.com/%C3%BCbersetzung/englisch-deutsch/privet\\\", \\\"meta_data\\\": {\\\"client\\\": \\\"web\\\", \\\"date\\\": null, \\\"citation_domain_name\\\": \\\"pons\\\", \\\"suffix\\\": \\\"com\\\", \\\"domain_name\\\": \\\"PONS Langenscheidt GmbH\\\", \\\"description\\\": \\\"\\\\u00dcbersetzung Englisch-Deutsch f\\\\u00fcr privet im PONS Online-W\\\\u00f6rterbuch nachschlagen! Gratis Vokabeltrainer, Verbtabellen, Aussprachefunktion.\\\", \\\"images\\\": [], \\\"published_date\\\": null}, \\\"is_attachment\\\": false, \\\"is_image\\\": false, \\\"is_code_interpreter\\\": false, \\\"is_knowledge_card\\\": false, \\\"is_navigational\\\": false, \\\"is_widget\\\": false, \\\"sitelinks\\\": null, \\\"is_focused_web\\\": false, \\\"is_client_context\\\": false, \\\"inline_entity_id\\\": null, \\\"is_memory\\\": false, \\\"is_conversation_history\\\": false, \\\"tab_id\\\": null, \\\"is_scrubbed\\\": null}], \\\"chunks\\\": [\\\"\\\\\\\"Privet\\\\\\\" is a\\\", \\\" flowering plant\\\", \\\" belonging to\\\", \\\" the genus Lig\\\", \\\"ustrum, which\\\", \\\" includes about\\\", \\\" 50 species of\\\", \\\" shrubs and small\\\", \\\" trees. These\\\", \\\" plants can be\\\", \\\" deciduous or\\\", \\\" evergreen and\\\", \\\" are native to\\\", \\\" regions including\\\", \\\" Europe, tropical\\\", \\\" and subtropical\\\", \\\" Asia, Australia\\\", \\\", and North Africa\\\", \\\". Privet species\\\", \\\" are often used\\\", \\\" for hedging due\\\", \\\" to their fast\\\", \\\" growth, tolerance\\\", \\\" to pruning, and\\\", \\\" adaptability\\\", \\\" to various soil\\\", \\\" types. The plant\\\", \\\" produces white\\\", \\\" flowers followed\\\", \\\" by dark berries\\\", \\\", and some species\\\", \\\" can become invasive\\\", \\\" in certain areas\\\", \\\". Privet is popular\\\", \\\" for privacy screening\\\", \\\" and hedging but\\\", \\\" may cause allergic\\\", \\\" reactions in\\\", \\\" some people due\\\", \\\" to pollen.\\\", \\\"[1][2][3]\\\"], \\\"extra_web_results\\\": [], \\\"structured_answer\\\": []}\"}, \"uuid\": \"\"}]",
+  "thread_title": "PRIVET",
+  "related_queries": [
+    "What are the best practices for pruning privet hedges",
+    "How does privet affect local ecosystems when invasive",
+    "What are the differences between evergreen and deciduous privet",
+    "How can I control privet's invasiveness in my garden",
+    "What are the common uses of privet in landscape design"
+  ],
+  "display_model": "turbo",
+  "user_selected_model": "turbo",
+  "personalized": true,
+  "mode": "COPILOT",
+  "query_str": "PRIVET",
+  "search_focus": "internet",
+  "source": "default",
+  "attachments": [],
+  "updated_datetime": "2025-09-21T05:58:10.140219",
+  "read_write_token": "6b6c610b-5118-460a-b892-7eb4c26faa3b",
+  "is_pro_reasoning_mode": false,
+  "step_type": "FINAL",
+  "bookmark_state": "NOT_BOOKMARKED",
+  "s3_social_preview_url": "https://ppl-ai-public.s3.amazonaws.com/static/img/pplx-default-preview.png",
+  "thread_access": 1,
+  "thread_url_slug": "privet-YFonfxnrTbWYurbZacarPw",
+  "expect_search_results": "true",
+  "plan": {
+    "goals": [
+      {
+        "id": "0",
+        "description": "Searching the web",
+        "final": true,
+        "todo_task_status": "INCOMPLETE"
+      }
+    ],
+    "final": true
+  },
+  "expiry_time": "2025-09-22T05:58:10.139799",
+  "privacy_state": "INCOGNITO",
+  "gpt4": false,
+  "sources": {
+    "sources": [
+      "web"
+    ]
+  },
+  "text_completed": true,
+  "expect_sponsored_results": false,
+  "num_sources_display": 8,
+  "entry_updated_datetime": "2025-09-21T05:58:12.976849+00:00",
+  "blocks": [
+    {
+      "intended_usage": "plan",
+      "plan_block": {
+        "progress": "DONE",
+        "goals": [
+          {
+            "id": "0",
+            "description": "Searching the web",
+            "final": true,
+            "todo_task_status": "INCOMPLETE"
+          }
+        ],
+        "final": true
+      }
+    },
+    {
+      "intended_usage": "pro_search_steps",
+      "plan_block": {
+        "progress": "DONE",
+        "goals": [],
+        "steps": [
+          {
+            "uuid": "",
+            "step_type": "INITIAL_QUERY",
+            "initial_query_content": {
+              "query": "PRIVET"
+            }
+          },
+          {
+            "uuid": "92761cb3-e347-4622-a84f-ec32237b5286",
+            "step_type": "SEARCH_WEB",
+            "search_web_content": {
+              "goal_id": "0",
+              "queries": [
+                {
+                  "engine": "web",
+                  "query": "PRIVET",
+                  "limit": 8
+                }
+              ]
+            }
+          },
+          {
+            "uuid": "fbe77cd6-e770-47e7-a71e-af0e8274929e",
+            "step_type": "SEARCH_RESULTS",
+            "web_results_content": {
+              "goal_id": "0",
+              "web_results": [
+                {
+                  "name": "Privet",
+                  "url": "https://en.wikipedia.org/wiki/Privet",
+                  "snippet": "A privet is a flowering plant in the genus Ligustrum. The genus contains about 50 species of erect, deciduous or evergreen shrubs or trees.",
+                  "is_attachment": false,
+                  "meta_data": {
+                    "client": "web",
+                    "citation_domain_name": "wikipedia",
+                    "suffix": "org",
+                    "domain_name": "Wikimedia Foundation, Inc.",
+                    "published_date": "2003-06-02T00:00:00"
+                  },
+                  "is_memory": false,
+                  "is_conversation_history": false,
+                  "is_navigational": false,
+                  "is_focused_web": false
+                },
+                {
+                  "name": "Types of privet: evergreen & robust privet hedges",
+                  "url": "https://plantura.garden/uk/trees-shrubs/privet/types-of-privet",
+                  "snippet": "Privet (Ligustrum) is extremely diverse and extremely hardy. In general, the plant grows quickly and is very tolerant of pruning.",
+                  "is_attachment": false,
+                  "meta_data": {
+                    "client": "web",
+                    "citation_domain_name": "plantura",
+                    "suffix": "garden",
+                    "domain_name": "Plantura",
+                    "description": "There is more to privet than you might think. Find out about the most robust and evergreen types of privet for your garden.",
+                    "published_date": "2023-04-11T00:00:00"
+                  },
+                  "is_memory": false,
+                  "is_conversation_history": false,
+                  "is_navigational": false,
+                  "is_focused_web": false
+                },
+                {
+                  "name": "A Guide to Growing Privet Responsibly",
+                  "url": "https://www.gardendesign.com/shrubs/privet.html",
+                  "snippet": "Privet tolerates a range of growing conditions, can withstand salt and urban pollution, and needs little maintenance other than regular pruning to keep it ...",
+                  "is_attachment": false,
+                  "meta_data": {
+                    "client": "web",
+                    "citation_domain_name": "gardendesign",
+                    "suffix": "com",
+                    "domain_name": "Garden Design Magazine",
+                    "description": "Learn how to grow and care for privet with our expert guide. Discover non-invasive varieties perfect for hedging and privacy screening. Tips on planting, pruning, and more!",
+                    "published_date": "2024-11-20T00:00:00"
+                  },
+                  "is_memory": false,
+                  "is_conversation_history": false,
+                  "is_navigational": false,
+                  "is_focused_web": false
+                },
+                {
+                  "name": "Ligustrum ovalifolium",
+                  "url": "https://en.wikipedia.org/wiki/Ligustrum_ovalifolium",
+                  "snippet": "Ligustrum ovalifolium, also known as Korean privet, California privet, garden privet, and oval-leaved privet, is a species of flowering plant in the olive ...",
+                  "is_attachment": false,
+                  "meta_data": {
+                    "client": "web",
+                    "citation_domain_name": "wikipedia",
+                    "suffix": "org",
+                    "domain_name": "Wikimedia Foundation, Inc.",
+                    "published_date": "2007-06-30T00:00:00"
+                  },
+                  "is_memory": false,
+                  "is_conversation_history": false,
+                  "is_navigational": false,
+                  "is_focused_web": false
+                },
+                {
+                  "name": "Privet \u2013 the Good, the Bad and the Beautiful",
+                  "url": "https://www.thetreecenter.com/privet-good-bad-beautiful/",
+                  "snippet": "Privet is a small tree, but if planted with enough space allowed for their growth, it is an attractive and very tough plant and a great choice for a difficult ...",
+                  "is_attachment": false,
+                  "meta_data": {
+                    "client": "web",
+                    "citation_domain_name": "thetreecenter",
+                    "suffix": "com",
+                    "domain_name": "The Tree Center",
+                    "description": "Privets are a controversial flowering shrub but all-in-all are widely considered to be a great garden addition. Learn why you should consider a privet.",
+                    "published_date": "2024-10-11T00:00:00"
+                  },
+                  "is_memory": false,
+                  "is_conversation_history": false,
+                  "is_navigational": false,
+                  "is_focused_web": false
+                },
+                {
+                  "name": "Wild privet",
+                  "url": "https://www.wildlifetrusts.org/wildlife-explorer/trees-and-shrubs/wild-privet",
+                  "snippet": "Wild privet is a shrub of hedgerows, woodlands and scrub, but is also a popular garden-hedge plant. It has white flowers in summer and matt-black berries in ...",
+                  "is_attachment": false,
+                  "meta_data": {
+                    "client": "web",
+                    "citation_domain_name": "wildlifetrusts",
+                    "suffix": "org",
+                    "domain_name": "Wildlifetrusts",
+                    "description": "Wild privet is a shrub of hedgerows, woodlands and scrub, but is also a popular garden-hedge plant. It has white flowers in summer and matt-black berries in winter that are very poisonous.",
+                    "published_date": "2018-01-01T00:00:00"
+                  },
+                  "is_memory": false,
+                  "is_conversation_history": false,
+                  "is_navigational": false,
+                  "is_focused_web": false
+                },
+                {
+                  "name": "Tree privet",
+                  "url": "https://www.weedbusters.org.nz/what-are-weeds/weed-list/tree-privet/",
+                  "snippet": "Small-to-large evergreen, hairless tree or dense shrub (<15+ m) with distinctive lumpy warts on the stems. Dark green leaves (5-13 x 3-6 cm) are glossy on the ...",
+                  "is_attachment": false,
+                  "meta_data": {
+                    "client": "web",
+                    "citation_domain_name": "weedbusters",
+                    "suffix": "org.nz",
+                    "domain_name": "Weedbusters",
+                    "published_date": "2006-01-01T00:00:00"
+                  },
+                  "is_memory": false,
+                  "is_conversation_history": false,
+                  "is_navigational": false,
+                  "is_focused_web": false
+                },
+                {
+                  "name": "PRIVET - Englisch-Deutsch \u00dcbersetzung",
+                  "url": "https://de.pons.com/%C3%BCbersetzung/englisch-deutsch/privet",
+                  "snippet": "\u00dcbersetzung Englisch-Deutsch f\u00fcr PRIVET im PONS Online-W\u00f6rterbuch nachschlagen! Gratis Vokabeltrainer, Verbtabellen, Aussprachefunktion.",
+                  "is_attachment": false,
+                  "meta_data": {
+                    "client": "web",
+                    "citation_domain_name": "pons",
+                    "suffix": "com",
+                    "domain_name": "PONS Langenscheidt GmbH",
+                    "description": "\u00dcbersetzung Englisch-Deutsch f\u00fcr privet im PONS Online-W\u00f6rterbuch nachschlagen! Gratis Vokabeltrainer, Verbtabellen, Aussprachefunktion."
+                  },
+                  "is_memory": false,
+                  "is_conversation_history": false,
+                  "is_navigational": false,
+                  "is_focused_web": false
+                }
+              ]
+            }
+          }
+        ],
+        "final": true
+      }
+    },
+    {
+      "intended_usage": "ask_text",
+      "markdown_block": {
+        "progress": "DONE",
+        "chunks": [
+          "\"Privet\" is a",
+          " flowering plant",
+          " belonging to",
+          " the genus Lig",
+          "ustrum, which",
+          " includes about",
+          " 50 species of",
+          " shrubs and small",
+          " trees. These",
+          " plants can be",
+          " deciduous or",
+          " evergreen and",
+          " are native to",
+          " regions including",
+          " Europe, tropical",
+          " and subtropical",
+          " Asia, Australia",
+          ", and North Africa",
+          ". Privet species",
+          " are often used",
+          " for hedging due",
+          " to their fast",
+          " growth, tolerance",
+          " to pruning, and",
+          " adaptability",
+          " to various soil",
+          " types. The plant",
+          " produces white",
+          " flowers followed",
+          " by dark berries",
+          ", and some species",
+          " can become invasive",
+          " in certain areas",
+          ". Privet is popular",
+          " for privacy screening",
+          " and hedging but",
+          " may cause allergic",
+          " reactions in",
+          " some people due",
+          " to pollen.",
+          "[1][2][3]"
+        ],
+        "chunk_starting_offset": 0,
+        "answer": "\"Privet\" is a flowering plant belonging to the genus Ligustrum, which includes about 50 species of shrubs and small trees. These plants can be deciduous or evergreen and are native to regions including Europe, tropical and subtropical Asia, Australia, and North Africa. Privet species are often used for hedging due to their fast growth, tolerance to pruning, and adaptability to various soil types. The plant produces white flowers followed by dark berries, and some species can become invasive in certain areas. Privet is popular for privacy screening and hedging but may cause allergic reactions in some people due to pollen.[1][2][3]"
+      }
+    },
+    {
+      "intended_usage": "web_results",
+      "web_result_block": {
+        "progress": "DONE",
+        "web_results": [
+          {
+            "name": "Privet",
+            "snippet": "A privet is a flowering plant in the genus Ligustrum. The genus contains about 50 species of erect, deciduous or evergreen shrubs or trees, with a native distribution from Europe to tropical and subtropical Asia, and with one species each native to Australia and north Africa. Some species have become widely naturalized or invasive where introduced. *Privet* was originally the name for the European semi-evergreen shrub *Ligustrum vulgare*, and later also for the more reliably evergreen...",
+            "timestamp": "2003-06-02T00:00:00",
+            "url": "https://en.wikipedia.org/wiki/Privet",
+            "meta_data": {
+              "client": "web",
+              "date": null,
+              "citation_domain_name": "wikipedia",
+              "suffix": "org",
+              "domain_name": "Wikimedia Foundation, Inc.",
+              "description": null,
+              "images": [
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Schurenbachhalde_11_ies.jpg/1200px-Schurenbachhalde_11_ies.jpg"
+              ],
+              "published_date": "2003-06-02T00:00:00"
+            },
+            "is_attachment": false,
+            "is_image": false,
+            "is_code_interpreter": false,
+            "is_knowledge_card": false,
+            "is_navigational": false,
+            "is_widget": false,
+            "is_focused_web": false,
+            "is_client_context": false,
+            "is_memory": false,
+            "is_conversation_history": false
+          },
+          {
+            "name": "Types of privet: evergreen & robust privet hedges",
+            "snippet": "There is more to privet than you might think. Find out about the most robust and evergreen types of privet for your garden.",
+            "timestamp": "2023-04-11T00:00:00",
+            "url": "https://plantura.garden/uk/trees-shrubs/privet/types-of-privet",
+            "meta_data": {
+              "client": "web",
+              "date": null,
+              "citation_domain_name": "plantura",
+              "suffix": "garden",
+              "domain_name": "Plantura",
+              "description": "There is more to privet than you might think. Find out about the most robust and evergreen types of privet for your garden.",
+              "images": [
+                "https://plantura.garden/uk/wp-content/uploads/sites/2/2022/06/types-of-privet.jpg"
+              ],
+              "published_date": "2023-04-11T00:00:00"
+            },
+            "is_attachment": false,
+            "is_image": false,
+            "is_code_interpreter": false,
+            "is_knowledge_card": false,
+            "is_navigational": false,
+            "is_widget": false,
+            "is_focused_web": false,
+            "is_client_context": false,
+            "is_memory": false,
+            "is_conversation_history": false
+          },
+          {
+            "name": "A Guide to Growing Privet Responsibly",
+            "snippet": "Learn how to grow and care for privet with our expert guide. Discover non-invasive varieties perfect for hedging and privacy screening. Tips on planting, pruning, and more!",
+            "timestamp": "2024-11-20T00:00:00",
+            "url": "https://www.gardendesign.com/shrubs/privet.html",
+            "meta_data": {
+              "client": "web",
+              "date": null,
+              "citation_domain_name": "gardendesign",
+              "suffix": "com",
+              "domain_name": "Garden Design Magazine",
+              "description": "Learn how to grow and care for privet with our expert guide. Discover non-invasive varieties perfect for hedging and privacy screening. Tips on planting, pruning, and more!",
+              "images": [
+                "https://www.gardendesign.com/pictures/images/320x320Exact/site_3/kindly-privet-foliage-proven-winners_18877.jpg"
+              ],
+              "published_date": "2024-11-20T00:00:00"
+            },
+            "is_attachment": false,
+            "is_image": false,
+            "is_code_interpreter": false,
+            "is_knowledge_card": false,
+            "is_navigational": false,
+            "is_widget": false,
+            "is_focused_web": false,
+            "is_client_context": false,
+            "is_memory": false,
+            "is_conversation_history": false
+          },
+          {
+            "name": "Ligustrum ovalifolium",
+            "snippet": "",
+            "timestamp": "2007-06-30T00:00:00",
+            "url": "https://en.wikipedia.org/wiki/Ligustrum_ovalifolium",
+            "meta_data": {
+              "client": "web",
+              "date": null,
+              "citation_domain_name": "wikipedia",
+              "suffix": "org",
+              "domain_name": "Wikimedia Foundation, Inc.",
+              "description": null,
+              "images": [
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ligustrum_ovalifolium.jpg/1200px-Ligustrum_ovalifolium.jpg"
+              ],
+              "published_date": "2007-06-30T00:00:00"
+            },
+            "is_attachment": false,
+            "is_image": false,
+            "is_code_interpreter": false,
+            "is_knowledge_card": false,
+            "is_navigational": false,
+            "is_widget": false,
+            "is_focused_web": false,
+            "is_client_context": false,
+            "is_memory": false,
+            "is_conversation_history": false
+          },
+          {
+            "name": "Privet \u2013 the Good, the Bad and the Beautiful",
+            "snippet": "Privets are a controversial flowering shrub but all-in-all are widely considered to be a great garden addition. Learn why you should consider a privet.",
+            "timestamp": "2024-10-11T00:00:00",
+            "url": "https://www.thetreecenter.com/privet-good-bad-beautiful/",
+            "meta_data": {
+              "client": "web",
+              "date": null,
+              "citation_domain_name": "thetreecenter",
+              "suffix": "com",
+              "domain_name": "The Tree Center",
+              "description": "Privets are a controversial flowering shrub but all-in-all are widely considered to be a great garden addition. Learn why you should consider a privet.",
+              "images": [
+                "https://www.thetreecenter.com/c/uploads/2017/01/3C9A5657-jpg.avif"
+              ],
+              "published_date": "2024-10-11T00:00:00"
+            },
+            "is_attachment": false,
+            "is_image": false,
+            "is_code_interpreter": false,
+            "is_knowledge_card": false,
+            "is_navigational": false,
+            "is_widget": false,
+            "is_focused_web": false,
+            "is_client_context": false,
+            "is_memory": false,
+            "is_conversation_history": false
+          },
+          {
+            "name": "Wild privet",
+            "snippet": "Wild privet is a shrub of hedgerows, woodlands and scrub, but is also a popular garden-hedge plant. It has white flowers in summer and matt-black berries in winter that are very poisonous.",
+            "timestamp": "2018-01-01T00:00:00",
+            "url": "https://www.wildlifetrusts.org/wildlife-explorer/trees-and-shrubs/wild-privet",
+            "meta_data": {
+              "client": "web",
+              "date": null,
+              "citation_domain_name": "wildlifetrusts",
+              "suffix": "org",
+              "domain_name": "Wildlifetrusts",
+              "description": "Wild privet is a shrub of hedgerows, woodlands and scrub, but is also a popular garden-hedge plant. It has white flowers in summer and matt-black berries in winter that are very poisonous.",
+              "images": [],
+              "published_date": "2018-01-01T00:00:00"
+            },
+            "is_attachment": false,
+            "is_image": false,
+            "is_code_interpreter": false,
+            "is_knowledge_card": false,
+            "is_navigational": false,
+            "is_widget": false,
+            "is_focused_web": false,
+            "is_client_context": false,
+            "is_memory": false,
+            "is_conversation_history": false
+          },
+          {
+            "name": "Tree privet",
+            "snippet": "",
+            "timestamp": "2006-01-01T00:00:00",
+            "url": "https://www.weedbusters.org.nz/what-are-weeds/weed-list/tree-privet/",
+            "meta_data": {
+              "client": "web",
+              "date": null,
+              "citation_domain_name": "weedbusters",
+              "suffix": "org.nz",
+              "domain_name": "Weedbusters",
+              "description": null,
+              "images": [],
+              "published_date": "2006-01-01T00:00:00"
+            },
+            "is_attachment": false,
+            "is_image": false,
+            "is_code_interpreter": false,
+            "is_knowledge_card": false,
+            "is_navigational": false,
+            "is_widget": false,
+            "is_focused_web": false,
+            "is_client_context": false,
+            "is_memory": false,
+            "is_conversation_history": false
+          },
+          {
+            "name": "PRIVET - Englisch-Deutsch \u00dcbersetzung",
+            "snippet": "\u00dcbersetzung Englisch-Deutsch f\u00fcr privet im PONS Online-W\u00f6rterbuch nachschlagen! Gratis Vokabeltrainer, Verbtabellen, Aussprachefunktion.",
+            "timestamp": "",
+            "url": "https://de.pons.com/%C3%BCbersetzung/englisch-deutsch/privet",
+            "meta_data": {
+              "client": "web",
+              "date": null,
+              "citation_domain_name": "pons",
+              "suffix": "com",
+              "domain_name": "PONS Langenscheidt GmbH",
+              "description": "\u00dcbersetzung Englisch-Deutsch f\u00fcr privet im PONS Online-W\u00f6rterbuch nachschlagen! Gratis Vokabeltrainer, Verbtabellen, Aussprachefunktion.",
+              "images": [],
+              "published_date": null
+            },
+            "is_attachment": false,
+            "is_image": false,
+            "is_code_interpreter": false,
+            "is_knowledge_card": false,
+            "is_navigational": false,
+            "is_widget": false,
+            "is_focused_web": false,
+            "is_client_context": false,
+            "is_memory": false,
+            "is_conversation_history": false
+          }
+        ]
+      }
+    }
+  ],
+  "message_mode": "FULL",
+  "related_query_items": [
+    {
+      "text": "What are the best practices for pruning privet hedges",
+      "type": "DEFAULT"
+    },
+    {
+      "text": "How does privet affect local ecosystems when invasive",
+      "type": "DEFAULT"
+    },
+    {
+      "text": "What are the differences between evergreen and deciduous privet",
+      "type": "DEFAULT"
+    },
+    {
+      "text": "How can I control privet's invasiveness in my garden",
+      "type": "DEFAULT"
+    },
+    {
+      "text": "What are the common uses of privet in landscape design",
+      "type": "DEFAULT"
+    }
+  ],
+  "access_level": "PRIVATE_READ",
+  "answer_modes": [
+    {
+      "answer_mode_type": "SOURCES"
+    }
+  ],
+  "reconnectable": false,
+  "image_completions": [],
+  "cursor": "068cf93f-516b-73b0-8000-30a8a83400c0",
+  "classifier_results": {
+    "personal_search": false,
+    "skip_search": false,
+    "widget_type": "GENERAL",
+    "hide_nav": false,
+    "hide_sources": false,
+    "image_generation": false,
+    "time_widget": false,
+    "mhe_predictions": {
+      "skip_search": false,
+      "image_generation_intent": false,
+      "time_widget": false,
+      "sports_intent": false,
+      "places_search_intent": false,
+      "shopping_intent": false,
+      "movie_lists_intent": false,
+      "image_preview": false,
+      "video_preview": false,
+      "nav_intent": false
+    }
+  },
+  "search_implementation_mode": "fast",
+  "telemetry_data": {
+    "has_displayed_search_results": true,
+    "has_first_output_token": true,
+    "has_first_token": true,
+    "country": "RU",
+    "is_followup": false,
+    "source": "default",
+    "engine_mode": "auto",
+    "search_implementation_mode": "fast",
+    "has_widget_data": false,
+    "search_duration_seconds": 0.5751619338989258,
+    "has_useful_renderable_content": true
+  },
+  "has_expired_attachments": false,
+  "status": "COMPLETED",
+  "final": true,
+  "_extras": {
+    "next": null,
+    "country": "RU",
+    "subdomain": null,
+    "pro_search_mode": "auto",
+    "core_elapsed": 3.0225455397740006
+  },
+  "final_sse_message": true
+}
